@@ -5,7 +5,7 @@
 const avatarImages = [
     'vlogpic.png','finance2.png','f2.png','Health1.png', // The initial robot avatar
     'fo2.png','g1.png','pocket.png','t3.png', // The previous avatar (from the first image)
-    'health3.png','r2.png','g2.png','t1.png',
+    'Health3.png','r2.png','g2.png','t1.png',
     'tech1.png','finance3.png','tech2.png','f3.png',
 
 
@@ -40,3 +40,4 @@ prevButton.addEventListener('click', () => {
 
 // Initialize the avatar on page load (optional, but good practice)
 updateAvatar();
+
